@@ -1,4 +1,5 @@
-### Digi-clock
+## Digital-clock
+
 Displaying digital clock with the day 
 <p align='center'>
     <img src="https://i2.wp.com/codemyui.com/wp-content/uploads/2017/04/digital-clock-animation.gif?fit=880%2C440&ssl=1"
